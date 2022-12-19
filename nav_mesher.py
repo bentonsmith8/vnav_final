@@ -1,7 +1,5 @@
-import sys
 import pyzed.sl as sl
 import time
-import cv2
 import ogl_viewer.viewer as gl
 import numpy as np
 
